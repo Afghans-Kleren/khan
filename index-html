@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zehra’s Afghan Kleding</title>
+  <title>Zehraâ€™s Afghan Kleding</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -38,7 +38,7 @@
 <body>
 
 <header>
-  <h1>Zehra’s Afghan Kleding</h1>
+  <h1>Zehraâ€™s Afghan Kleding</h1>
   <p>Traditionele Logari & Panjabi kleren voor vrouwen</p>
 </header>
 
@@ -47,14 +47,14 @@
     <img src="https://via.placeholder.com/300x400?text=Logari+Kleren" alt="Logari Kleren" />
     <h3>Logari Kleren</h3>
     <p>Handgemaakte feestelijke jurken uit Afghanistan.</p>
-    <p class="prijs">€135,00</p>
+    <p class="prijs">â‚¬135,00</p>
   </div>
 
   <div class="product">
     <img src="https://via.placeholder.com/300x400?text=Panjabi+Kleren" alt="Panjabi Kleren" />
     <h3>Panjabi Kleren</h3>
     <p>Comfortabele en elegante Panjabi-stijl kleding.</p>
-    <p class="prijs">€90,00</p>
+    <p class="prijs">â‚¬90,00</p>
   </div>
 </main>
 
